@@ -43,7 +43,7 @@ public class Encapsulation {
     Encapsulation student1 = new Encapsulation("Roshan", 21, 3.65);
     student1.displayInfo();
     System.out.println();
-    Encapsulation student2 = new Encapsulation("Anish", 20, 3.5);
+    Encapsulation student2 = new Encapsulation("Anish", 30, 3.5);
     student2.displayInfo();
   }
 
